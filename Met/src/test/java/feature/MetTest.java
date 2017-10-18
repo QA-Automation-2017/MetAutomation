@@ -12,12 +12,12 @@ public class MetTest {
     
     @BeforeClass
     public static void up(){
-        Generics.start();
+        
     }
 
     @AfterClass
     public static void teardown() {
-        Generics.down();
+       
     }
     
 }
